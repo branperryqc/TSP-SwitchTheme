@@ -1,4 +1,4 @@
-# Nintendo Switch Theme Beta v0.1 (Dark) for TrimUI Smart Pro
+# Nintendo Switch Theme Beta v0.1 (Dark) for TrimUI Smart Pro (CrossMix OS)
 I worked on this theme based upon lilbud's RetroPie theme he maded which you can see here:
 (https://github.com/lilbud/es-theme-switch/tree/master) 
 
